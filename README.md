@@ -18,3 +18,6 @@ O jogo promove uma reflexão a respeito da quantidade de comida disponível no m
 <br><br>
 link do projeto: https://drive.google.com/file/d/1coXXIJ0wQhMws9DAkkoIhb7tcMVP6nMW/view?usp=sharing (caso o download da pasta no github não funcione)
 
+
+## Licença
+HealthGame © 2 by FECAP, Guilhermy Garcia, Lavinia Pires, Kamila Silva, Gustavo Bernardi is licensed under CC BY 4.0 
